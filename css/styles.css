@@ -23,6 +23,14 @@ h3 {
     padding-top: 100px;
 }
 
+.middle-container {
+    background-color: #E4F9F5;
+}
+
+.bottom-container {
+    background-color: #E4F9F5;
+}
+
 .top-cloud {
     position: absolute;
     right: 300px;
