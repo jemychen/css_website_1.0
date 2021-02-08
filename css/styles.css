@@ -1,11 +1,11 @@
 body {
     margin: 0;
     text-align: center;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Merriweather', serif;
 }
 
 h1 {
-    font-size: 565.5%;
+    font-size: 5.625rem;
     margin-top: 0;
     font-family: 'Sacramento', cursive;
 }
