@@ -12,6 +12,10 @@ h1 {
     color: #66BFBF;
 }
 
+hr {
+
+}
+
 h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem%;
@@ -59,13 +63,6 @@ h3 {
     padding-top: 100px;
 }
 
-.middle-container {
-    background-color: #E4F9F5;
-}
-
-.bottom-container {
-    background-color: #E4F9F5;
-}
 
 .footer-link {
     color: #11999E;
@@ -81,4 +78,8 @@ h3 {
     position: absolute;
     left: 300px;
     bottom: 300px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
 }
