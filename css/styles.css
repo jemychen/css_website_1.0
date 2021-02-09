@@ -41,12 +41,16 @@ h3 {
     border-radius: 60%;
     height: 15%;
     width: 15%;
+    float: left;
+    margin-right: 30px;
 }
 
 .computer {
     border-radius: 50%;
     height: 15%;
     width: 15%;
+    float: left;
+    margin-right: 30px;
 }
 
 .top-container {
